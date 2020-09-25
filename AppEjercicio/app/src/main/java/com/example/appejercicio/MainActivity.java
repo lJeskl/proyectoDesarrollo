@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ConexionSQLiteHelper conn = new ConexionSQLiteHelper(this, Utilidades.DATABASE_NAME,null,Utilidades.VERSION);
+
     }
 }

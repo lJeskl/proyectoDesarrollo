@@ -12,8 +12,8 @@ import com.example.appejercicio.Utilidades.Utilidades;
 public class ConexionSQLiteHelper extends SQLiteOpenHelper {
 
 
-    public ConexionSQLiteHelper(@Nullable Context context, @Nullable String name, @Nullable SQLiteDatabase.CursorFactory factory, int version) {
-        super(context, name, factory, version);
+    public ConexionSQLiteHelper(@Nullable Context context) {
+        super(context, Utilidades.DATABASE_NAME, null, Utilidades.VERSION);
     }
 
     @Override
