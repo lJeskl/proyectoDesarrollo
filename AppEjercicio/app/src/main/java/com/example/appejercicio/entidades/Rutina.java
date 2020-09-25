@@ -1,6 +1,4 @@
-package com.example.appejercicio;
-
-import com.example.appejercicio.Ejercicio;
+package com.example.appejercicio.entidades;
 
 import java.util.ArrayList;
 

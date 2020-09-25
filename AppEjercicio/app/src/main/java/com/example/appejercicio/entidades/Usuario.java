@@ -1,4 +1,4 @@
-package com.example.appejercicio;
+package com.example.appejercicio.entidades;
 
 public class Usuario {
     int id;
