@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppEjercicio</string>
+
+    <!--  Botones  -->
+    <string name="btn_iniciar_sesion">INICIAR SESIóN</string>
+    <string name="btn_registrarse">REGISTRARSE</string>
 </resources>
